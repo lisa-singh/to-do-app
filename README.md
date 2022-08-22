@@ -21,7 +21,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Follow the instruction to run the app
+## Follow the instructions to run the app
 - Clone the Repo.
 - Create a database name seven
 - Open your terminal and run the command npm install
